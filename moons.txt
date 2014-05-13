@@ -1,0 +1,4 @@
+cat #small
+dog #big
+monkey #active small
+themoon #deads
