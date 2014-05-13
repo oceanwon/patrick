@@ -1,4 +1,5 @@
-mercury
+mercury #small and speedy
 venus #cloudy with a chance of sulfuric acid
 earth
 pluto #Is this stil a planet?
+jupiter #probably too expensive
